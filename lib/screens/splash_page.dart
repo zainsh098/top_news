@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+
 import 'package:top_news/screens/home_page.dart';
 
 class SplashPage extends StatefulWidget {
